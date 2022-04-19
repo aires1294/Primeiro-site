@@ -1,0 +1,19 @@
+body{
+    background: red;
+    font-family: verdana;
+    width: 100px;
+}
+title, subtitle {
+    color: rgb(7, 7, 7);
+}
+
+subtitle{
+    font-style: italic;
+}
+
+post {
+    background: white;
+    padding: 10px;
+    border: 10px solid black;
+}
+
